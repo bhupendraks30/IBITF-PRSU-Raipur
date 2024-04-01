@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IBITF PRSU Raipur</string>
+    <string name="spash_screen">splash Screen</string>
+    <string name="title">Ai- Driven
+financial Empowerment :
+FinTech for All</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="img_desc">Login ImageView\n</string>
+    <string name="username_logo">Username_logo\n</string>
+    <string name="password_logo">Password Logo</string>
+    <string name="conferm_here">Next</string>
+    <string name="main_activity_text">This title may have some detailed descriptions, which can go here. Some of these text box information is secured.</string>
+    <string name="main_activity_hear_fill_icon">Main Activity Heart fill Icon</string>
+    <string name="next_of_main_activity_title">Fintech Ai Driven Mobile App</string>
+    <string name="finance_ai_logo">Finance and ai logo</string>
+    <string name="next_of_main_activity_tex">Wireframe is still important for ideation.</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="create_new_account">or Create new Account.</string>
+</resources>
